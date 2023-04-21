@@ -4,7 +4,7 @@ import InputGroup from './InputGroup';
 
 function App() {
   const inputLabels = [
-    'C42', 'C32', 'C31', 'C23', 'C16', 'C14', 'C13', 'C8', 'Gamla'
+    'C42/C32', 'C31/C23', 'C16/C14', 'C13/C8', 'Gamla'
   ];
 
   return (
